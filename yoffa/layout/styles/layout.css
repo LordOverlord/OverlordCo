@@ -61,7 +61,9 @@ File: Layout CSS
 
 /* Content Area
 --------------------------------------------------------------------------------------------------------------- */
-.container{padding:80px 0;}
+.container{padding:30px 0;
+padding-left: 30px;
+padding-right: 30px;}
 
 /* Content */
 .container .content{}
