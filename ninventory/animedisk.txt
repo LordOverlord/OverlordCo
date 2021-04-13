@@ -1,0 +1,170 @@
+Folder PATH listing for volume Nuevo vol
+Volume serial number is 00000046 D0D0:1F97
+V:\
++---BackupNetflis
+    +---Anime
+        +---07 Ghost
+        +---Accel World
+        +---Ajin
+        +---Akudama Drive
+        +---Appare-Ranman!
+        +---Araburu Kisetsu no Otome-domo yo
+        +---Arifureta Shokugyou de Sekai Saikyou
+        +---Asobi Ni Iku Yo
+        +---Blood of Zeus
+        +---Boku No Hero Academia
+        +---Break Blade
+        +---Bubuki Buranki
+        +---Burst Angel
+        +---Busou Shoujo Machiavellianism
+        +---Chio chan no Tsuugakuro
+        +---Code Breaker
+        +---Code Geass
+        +---Corpse Party Tortured Souls
+        +---Cyclops Shoujo Saipu
+        +---Deca-Dence
+        +---Demi-chan wa Kataritai
+        +---Densetsu no Yusha no Densetsu
+        +---Desert Punk
+        +---Digimon Adventures
+        +---Divine Gate
+        +---Dogeza de Tanondemita
+        +---Domestic na kanojo
+        +---Dorohedoro
+        +---Dororo
+        +---Dr. Stone
+        +---Dragon Ball
+        +---Dragon Ball GT
+        +---Dragon Ball Super
+        +---Dragon Ball Z
+        +---Drifters
+        +---Dumbbell Nan Kilo Moteru
+        +---Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
+        +---Enen no Shouboutai
+        +---Etotama
+        +---Fairy Tail
+        +---Fairy Tail Final Series
+        +---Full Metal Panic
+        +---Gaikotsu Shotenin Honda-san
+        +---Gantz
+        +---Gate Jieitai Kanochi nite, Kaku Tatakaeri
+        +---Gin No Saji
+        +---Girls Und Panzer
+        +---Girly Air force
+        +---Goblin Slayer
+        +---Goldey Kamuy
+        +---Grappler Baki
+        +---Grimms Notes The animation
+        +---Gunjou no Magmel
+        +---HACHI-NAN TTE, SORE WA NAI DESHOU!
+        ¦   +---Temporada 1
+        +---HAGURE YUUSHA NO ESTETICA
+        +---Hajime no Ippo
+        +---Hataraku Saibou
+        +---Hataraku Saibou Black
+        +---Heroic Age
+        +---High School DxD
+        +---Hitsugi no chaika
+        +---Honzuki no Gekokujou
+        +---Isekai Cheat Magician
+        +---Isekai Maou to Shoukan Shoujo no Dorei Majutsu
+        +---Isekai wa Smartphone to Tomo ni
+        +---Ishuzoku Reviewers
+        +---ITAI NO WA IYA NANO DE BOUGYORYOKU NI KYOKUFURI SHITAI TO OMOIMASU
+        +---Kaifuku Jutsushi no Yarinaoshi
+        +---Kanokon
+        +---Katsute Kami Datta Kemono-tachi e
+        +---Kawaikereba Hentai demo Suki ni Natte Kuremasu ka
+        +---Kekkai Sensen
+        +---Kengan Ashura
+        +---Kenja no Mago
+        +---Kimetsu no Yaiba
+        +---Knight's & Magic
+        +---Koi to Producer EVOL×LOVE
+        +---Kono Subarashii Sekai ni Shukufuku wo!
+        +---Kouya no Kotobuki Hikoutai
+        +---Kurokami
+        +---Kyokou Suiri
+        +---Madan no Ou to Vanadis
+        +---Magatsu Wahrheit Zuerst
+        +---Magi
+        +---Mahou Sensou
+        +---Mahou Shoujo Site
+        +---Mairimashita! Iruma-kun
+        +---Maken-Ki!
+        +---Maou Gakuin no Futekigousha
+        +---Maoyu Mao Yuusha
+        +---Mob Psycho
+        +---Monster Musume no Iru Nichijou
+        +---Monster Musume no Oishasan
+        +---Monster Rancher
+        +---Mujin Wakusei Survive
+        +---Mushoku Tensei Isekai Ittara Honki Dasu
+        +---Nanatzu no Taizai
+        ¦   +---Temporada 1
+        ¦   +---Temporada 2
+        ¦   +---Temporada 3
+        +---Nande koko ni sensei ga
+        +---Naruto
+        +---New Game
+        +---No game, No life
+        +---Noragami
+        +---One Piece
+        +---One Punch Man
+        +---Ore dake Haireru Kakushi Dungeon
+        +---Ore ga Suki nano wa Imouto dakedo Imouto ja Nai
+        +---Ore wo Suki nano wa Omae dake ka yo
+        +---Otona no Bouguya-san
+        +---Overflow
+        +---Overlord
+        +---Plunderer
+        +---Pokemon The Origin
+        +---Project Scard Praeter no Kizu
+        +---Quan Zhi Fa Shi
+        +---Radiant
+        +---Rakudai Kishi no Cavalry
+        +---Ranma ½
+        +---Rokka no Yuusha
+        +---Rokudenashi Majutsu Koushi to Akashic Records
+        +---Saint seiya omega
+        +---Saint Seiya Saintia Shou
+        +---Saint Seiya Soul of God
+        +---Saint Seiya The Lost Canvas
+        +---Seiken Tsukai no World Break
+        +---Shinchou Yuusha Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru
+        +---Shingeki no kyojin
+        +---Sidonia no Kishi
+        +---sin nanatsu no taizai
+        +---Sora no Otoshimono
+        +---Sounan desu ka
+        +---Sousei no Onmyouji
+        +---Space Dandy
+        +---Strike the Blood
+        +---Suisei No Gargantia
+        +---Sword Art Online
+        +---Sword Art Online Alternative Gun Gale
+        +---Taboo Tattoo
+        +---Taimadou Gakuen 35 Shiken Shoutai
+        +---Tate no Yuusha no Nariagari
+        +---Tejina-Senpai
+        +---Tenkuu Shinpan
+        +---Tensei shitara Slime Datta Ken
+        +---Terra Formars
+        +---The Daily Life of the Immortal King
+        +---The God of High School
+        +---Toaru Kagaku no Accelerator
+        +---Toaru Kagaku no Railgun
+        +---Toaru Majutsu no Index
+        +---Toriko
+        +---UQ Holder! Mahou Sensei Negima! 2
+        +---Vilolet EverGarden
+        +---Vinland Saga
+        +---Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!
+        +---Yahari Ore no Seishun Love Come wa Machigatteiru
+        +---Yakusoku no Neverland
+        +---Yosuga no sora
+        +---Youjo Senki
+        +---Yu-Gi-Oh! 5Ds
+        +---Yu-Gi-Oh! Duel Monsters
+        +---Yu-Gi-Oh! GX
+        +---Yuukoku no Moriarty
